@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "termometro-7f5a0": {
+      "hosting": {
+        "app": [
+          "termometro-7f5a0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "termometro-7f5a0"
+  }
+}
